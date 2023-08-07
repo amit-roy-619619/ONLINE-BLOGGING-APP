@@ -1,0 +1,1 @@
+in the root folder please run : npm run dev
